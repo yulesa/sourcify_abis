@@ -1,0 +1,13 @@
+/target
+/local_files
+/compiled_contracts
+/contract_deployments
+/verified_contracts
+/processed_abis
+*.csv
+*.txt
+*._tmp
+*.env
+*.venv
+*.so
+*.py[cod]
